@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.31727.386
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindIndex", "FindIndex\FindIndex.csproj", "{CAB1D505-96E2-4BB4-B4FB-156661D7D9EB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FindIndex", "FindIndex\FindIndex.csproj", "{CAB1D505-96E2-4BB4-B4FB-156661D7D9EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9.Palindrome Number", "9.Palindrome Number\9.Palindrome Number.csproj", "{1EAE0627-F963-4C00-9B1E-0ED6DA555C23}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{CAB1D505-96E2-4BB4-B4FB-156661D7D9EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CAB1D505-96E2-4BB4-B4FB-156661D7D9EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CAB1D505-96E2-4BB4-B4FB-156661D7D9EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1EAE0627-F963-4C00-9B1E-0ED6DA555C23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EAE0627-F963-4C00-9B1E-0ED6DA555C23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EAE0627-F963-4C00-9B1E-0ED6DA555C23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EAE0627-F963-4C00-9B1E-0ED6DA555C23}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
